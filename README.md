@@ -8,6 +8,13 @@ This ipython notebook is a implementation of face detection using MTCNN and Open
 [ipython-image]: https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white
 
 # Introduction
+## Face Detection
+Face detection is the process of identifying or verifying the presence of human faces in digital images or videos. It is a key technology behind advanced driver assistance systems (ADAS) and is used in many applications such as security, human-computer interaction, image and video indexing, and mobile photography.
+
+There are several methods for face detection, including Haar cascades, Single Shot MultiBox Detector (SSD), and You Only Look Once (YOLO). Each of these methods uses a different algorithm and has its own advantages and disadvantages. Haar cascades, for example, are fast and efficient, but may not be as accurate as some other methods. Other methods like deep learning based methods (MTCNN, RetinaFace etc) are more accurate but computationally expensive.
+
+It is important to note that face detection is different from face recognition which is the process of identifying a person from a digital image or video frame.
+
 ## MTCNN
 MTCNN stands for Multi-task Cascaded Convolutional Networks. It is a face detection algorithm that uses a cascaded architecture to detect faces and facial landmarks such as the eyes, nose, and mouth. It is trained to detect faces in images and is able to handle a wide range of face poses and scales. It is a popular algorithm for face detection and has been used in many applications such as face recognition and facial expression analysis.
 
