@@ -1,5 +1,7 @@
 # Face Detection using MTCNN and OpenCV
+This ipython notebook is a implementation of face detection using MTCNN and OpenCV Haar Cascade. 
 
+## Packeges Used:
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Python][python] ![Jupyter Notebook][ipython-image] ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 [python]: https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54
